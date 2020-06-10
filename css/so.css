@@ -12,3 +12,18 @@
     padding: 0px 0px 5px;
     height: 50px;
 }
+
+
+.v-result > div{
+    float: left;
+    margin-right: 10px;
+}
+.v-name{
+    color: #ff6000;
+    font-size: 18px;
+    padding-right: 10px;
+}
+
+.v-img-wrapper{
+    border: 1px solid #ccc;
+}
